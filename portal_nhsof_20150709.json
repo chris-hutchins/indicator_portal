@@ -6,7 +6,7 @@
         },
         "title": "Potential years of life lost (PYLL) from causes considered amenable to healthcare - adults (NHSOF 1a.i)",
         "description": "The number of years of life lost by every 100,000 adults aged 20 and over dying from a condition which is usually treatable, measured in a way which allows for comparisons between populations with different age profiles and over time.",
-        "identifier": "HSCIC-Indicator-Portal-P01726",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01726&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01726&mode=documentation&top=yes",
         "keyword": [
@@ -52,7 +52,7 @@
         },
         "title": "Potential years of life lost (PYLL) from causes considered amenable to healthcare - children and young people (NHSOF 1a.ii)",
         "description": "The number of years of life lost by every 100,000 persons aged 0 to 19 dying from a condition which is usually treatable, measured in a way which allows for comparisons between populations with different age profiles and over time.",
-        "identifier": "HSCIC-Indicator-Portal-P01727",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01727&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01727&mode=documentation&top=yes",
         "keyword": [
@@ -98,7 +98,7 @@
         },
         "title": "Life expectancy at 75 (NHSOF 1b)",
         "description": "The average number of additional years a man or woman aged 75 can be expected to live if they continue to live in the same place and the death rates in their area remain the same for the rest of their life.",
-        "identifier": "HSCIC-Indicator-Portal-P01728",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01728&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01728&mode=documentation&top=yes",
         "keyword": [
@@ -144,7 +144,7 @@
         },
         "title": "Neonatal mortality and stillbirths (former indicator 1.6.ii) (NHSOF 1c)",
         "description": "The number of babies stillborn or dying before 28 days old per 1,000 live births and stillbirths.",
-        "identifier": "HSCIC-Indicator-Portal-P01729",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01729&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01729&mode=documentation&top=yes",
         "keyword": [
@@ -192,7 +192,7 @@
         },
         "title": "Under 75 mortality rate from cardiovascular disease (NHSOF 1.1)",
         "description": "Directly standardised mortality rate from cardiovascular disease for people aged under 75, per 100,000 population.\n\n\n\nDirect comparison with previous year’s mortality, prior to 2011, is not advisable. There was a decrease in the number of deaths with an underlying cause coded as ‘Cardiovascular Disease’. However, a large proportion of this decrease is caused by a correction to the coding of vascular dementia, which was coded as underlying cause CVD (I67.9) until 2010 and is now coded as underlying cause in ‘Mental Health’ deaths (F01). Further details can be found at: http://www.ons.gov.uk/ons/rel/subnational-health3/results-of-the-icd-10-v2010-bridge-coding-study--england-and-wales--2009/2009/index.html",
-        "identifier": "HSCIC-Indicator-Portal-P01730",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01730&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01730&mode=documentation&top=yes",
         "keyword": [
@@ -238,7 +238,7 @@
         },
         "title": "Under 75 mortality rate from respiratory disease (NHSOF 1.2)",
         "description": "Directly standardised mortality rate from respiratory disease for people aged under 75, per 100,000 population.",
-        "identifier": "HSCIC-Indicator-Portal-P01731",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01731&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01731&mode=documentation&top=yes",
         "keyword": [
@@ -284,7 +284,7 @@
         },
         "title": "Under 75 mortality rate from liver disease (NHSOF 1.3)",
         "description": "Directly standardised mortality rate from liver disease for people aged under 75, per 100,000 population.",
-        "identifier": "HSCIC-Indicator-Portal-P01732",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01732&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01732&mode=documentation&top=yes",
         "keyword": [
@@ -331,7 +331,7 @@
         },
         "title": "Under 75 mortality rate from cancer (NHSOF 1.4)",
         "description": "Directly standardised mortality rate from cancer for people aged under 75, per 100,000 population.",
-        "identifier": "HSCIC-Indicator-Portal-P01733",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01733&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01733&mode=documentation&top=yes",
         "keyword": [
@@ -377,7 +377,7 @@
         },
         "title": "One-year survival from all cancers (NHSOF 1.4.i)",
         "description": "A measure of the number of adults diagnosed with any type of cancer in a year who are still alive one year after diagnosis.\n\n\n\nONS still publish survival percentages for individual types of cancers. These can be found at: http://www.ons.gov.uk/ons/rel/cancer-unit/cancer-survival/cancer-survival-in-england--patients-diagnosed-2007-2011-and-followed-up-to-2012/index.html",
-        "identifier": "HSCIC-Indicator-Portal-P01734",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01734&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01734&mode=documentation&top=yes",
         "keyword": [
@@ -423,7 +423,7 @@
         },
         "title": "Five-year survival from all cancers (NHSOF 1.4.ii)",
         "description": "A measure of the number of adults diagnosed with any type of cancer in a year who are still alive five years after diagnosis.\n\n\n\nONS still publish survival percentages for individual types of cancers. These can be found at: http://www.ons.gov.uk/ons/rel/cancer-unit/cancer-survival/cancer-survival-in-england--patients-diagnosed-2007-2011-and-followed-up-to-2012/index.html",
-        "identifier": "HSCIC-Indicator-Portal-P01735",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01735&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01735&mode=documentation&top=yes",
         "keyword": [
@@ -469,7 +469,7 @@
         },
         "title": "One-year survival from breast, lung and colorectal cancer (NHSOF 1.4.iii)",
         "description": "A measure of the number of adults diagnosed with breast, lung or colorectal cancer in a year who are still alive one year after diagnosis.\n\n\n\nONS still publish survival percentages for individual types of cancers. These can be found at: http://www.ons.gov.uk/ons/rel/cancer-unit/cancer-survival/cancer-survival-in-england--patients-diagnosed-2007-2011-and-followed-up-to-2012/index.html\n\n\n\nA time series for one-year survival figures for breast, lung and colorectal cancer individually (previous NHS Outcomes Framework indicators 1.4.i, 1.4.iii and 1.4.v) is still published and can be found under the link Indicator data - previous methodology (.xls) below.",
-        "identifier": "HSCIC-Indicator-Portal-P01736",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01736&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01736&mode=documentation&top=yes",
         "keyword": [
@@ -526,7 +526,7 @@
         },
         "title": "Five-year survival from breast, lung and colorectal cancer (NHSOF 1.4.iv)",
         "description": "A measure of the number of adults diagnosed with breast, lung or colorectal cancer in a year who are still alive five years after diagnosis.\n\n\n\nONS still publish survival percentages for individual types of cancers. These can be found at: http://www.ons.gov.uk/ons/rel/cancer-unit/cancer-survival/cancer-survival-in-england--patients-diagnosed-2007-2011-and-followed-up-to-2012/index.html\n\n\n\nA time series for five-year survival figures for breast, lung and colorectal cancer individually (previous NHS Outcomes Framework indicators 1.4.ii, 1.4.iv and 1.4.vi) is still published and can be found under the link Indicator data - previous methodology (.xls) below.",
-        "identifier": "HSCIC-Indicator-Portal-P01737",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01737&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01737&mode=documentation&top=yes",
         "keyword": [
@@ -583,7 +583,7 @@
         },
         "title": "Excess under 75 mortality rate in adults with serious mental illness (formerly indicator 1.5) (NHSOF 1.5.i)",
         "description": "A measure of the extent to which adults with a serious mental illness die younger than adults in the general population.",
-        "identifier": "HSCIC-Indicator-Portal-P01740",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01740&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01740&mode=documentation&top=yes",
         "keyword": [
@@ -636,7 +636,7 @@
         },
         "title": "Infant mortality (NHSOF 1.6.i)",
         "description": "Infant mortality is defined as the number of babies dying before the age of one for every 1,000 live births.",
-        "identifier": "HSCIC-Indicator-Portal-P01743",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01743&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01743&mode=documentation&top=yes",
         "keyword": [
@@ -684,7 +684,7 @@
         },
         "title": "Five-year survival from all cancers in children (formerly indicator 1.6.iii) (NHSOF 1.6.ii)",
         "description": "A measure of the proportion of children diagnosed with any type of cancer in a year who are still alive five years after diagnosis.",
-        "identifier": "HSCIC-Indicator-Portal-P01744",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01744&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01744&mode=documentation&top=yes",
         "keyword": [
@@ -731,7 +731,7 @@
         },
         "title": "Health-related quality of life for people with long-term conditions (NHSOF 2)",
         "description": "This indicator measures the health-related quality of life for people who identify themselves as having one or more long-term conditions.",
-        "identifier": "HSCIC-Indicator-Portal-P01746",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01746&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01746&mode=documentation&top=yes",
         "keyword": [
@@ -779,7 +779,7 @@
         },
         "title": "Proportion of people feeling supported to manage their condition (NHSOF 2.1)",
         "description": "This indicator measures the degree to which people with health conditions that are expected to last for a significant period of time feel they have had sufficient support from relevant services and organisations to manage their condition.",
-        "identifier": "HSCIC-Indicator-Portal-P01747",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01747&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01747&mode=documentation&top=yes",
         "keyword": [
@@ -827,7 +827,7 @@
         },
         "title": "Employment of people with long-term conditions (NHSOF 2.2)",
         "description": "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a long-term condition.",
-        "identifier": "HSCIC-Indicator-Portal-P01748",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01748&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01748&mode=documentation&top=yes",
         "keyword": [
@@ -875,7 +875,7 @@
         },
         "title": "Unplanned hospitalisation for chronic ambulatory care sensitive conditions (NHSOF 2.3.i)",
         "description": "This indicator measures how many people with specific long-term conditions, which should not normally require hospitalisation, are admitted to hospital in an emergency. These conditions include, for example, diabetes, epilepsy and high blood pressure.",
-        "identifier": "HSCIC-Indicator-Portal-P01749",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01749&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01749&mode=documentation&top=yes",
         "keyword": [
@@ -926,7 +926,7 @@
         },
         "title": "Unplanned hospitalisation for asthma, diabetes and epilepsy in under 19s (NHSOF 2.3.ii)",
         "description": "This indicator measures how many young people (aged 0-18 inclusive) who have asthma, diabetes or epilepsy are admitted to hospital in an emergency.",
-        "identifier": "HSCIC-Indicator-Portal-P01750",
+        "identifier": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01750&mode=documentation&top=yes",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01750&mode=documentation&top=yes",
         "keyword": [
