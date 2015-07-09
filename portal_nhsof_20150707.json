@@ -18,12 +18,12 @@
             {
                 "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1a.i_I01954_D.xls",
                 "title": "Indicator data (.xls)",
-                "format": "'application/excel'"
+                "format": "application/excel"
             },
             {
                 "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1a.i_I01954_D.csv",
                 "title": "Indicator data (.csv)",
-                "format": "'text/csv'"
+                "format": "text/csv"
             }
         ],
         "references": [
@@ -51,12 +51,12 @@
             {
                 "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1a.ii_I00807_D.xls",
                 "title": "Indicator data (.xls)",
-                "format": "'application/excel'"
+                "format": "application/excel"
             },
             {
                 "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1a.ii_I00807_D.csv",
                 "title": "Indicator data (.csv)",
-                "format": "'text/csv'"
+                "format": "text/csv"
             }
         ],
         "references": [
