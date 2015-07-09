@@ -27,12 +27,20 @@
             }
         ],
         "references": [
-            {"downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
-             "title": "title test"
+            {"url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+             "title": "Framework specification",
+             "format": "application/pdf"
             },
-            "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
-            "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1a.i_I01954_Q.pdf"
-        ]
+            {"url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+             "title": "NHS Outcomes Framework",
+             "format": "text/html"
+            },
+            {"url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1a.i_I01954_Q.pdf",
+             "title": "NHS Outcomes Framework",
+             "format": "application/pdf"
+            }
+            
+                                ]
     },
     {
         "publisher": {
