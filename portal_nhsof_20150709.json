@@ -282,53 +282,6 @@
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
         },
-        "title": "Under 75 mortality rate from liver disease (NHSOF 1.3)",
-        "description": "Directly standardised mortality rate from liver disease for people aged under 75, per 100,000 population.",
-        "identifier": "HSCIC-Indicator-Portal-P01732",
-        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01732&mode=documentation&top=yes",
-        "keyword": [
-            "death",
-            "digestive disease",
-            "liver",
-            "mortality",
-            "deaths"
-        ],
-        "distribution": [
-            {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.3_I00658_D.xls",
-                "title": "Indicator data (.xls)",
-                "format": "application/vnd.ms-excel"
-            },
-            {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.3_I00658_D.csv",
-                "title": "Indicator data (.csv)",
-                "format": "text/csv"
-            }
-        ],
-        "references": [
-            {
-                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
-                "title": "Indicator specification",
-                "format": "application/pdf"
-            },
-            {
-                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
-                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
-                "format": "text/html"
-            },
-            {
-                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1.3_I00658_Q.pdf",
-                "title": "Indicator quality statement",
-                "format": "application/pdf"
-            }
-        ]
-    },
-    {
-        "publisher": {
-            "name": "Health and Social Care Information Centre",
-            "mbox": "enquiries@hscic.gov.uk"
-        },
         "title": "Under 75 mortality rate from cancer (NHSOF 1.4)",
         "description": "Directly standardised mortality rate from cancer for people aged under 75, per 100,000 population.",
         "identifier": "HSCIC-Indicator-Portal-P01733",
