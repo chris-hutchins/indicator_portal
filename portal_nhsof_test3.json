@@ -5,7 +5,7 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "ZZZTest Additional indicator2",
-        "description": "The \u000D total \u000D\u000A number of <break> safety incidents, causing harm to children due to failure to monitor, reported to the National Reporting and Learning System (NRLS) by provider organisations.\n\n\n\nPlease note that this indicator has been retired as of May 2015. This is because it has been removed form the 2015/16 NHS Outcomes Framework due to the unsuitable data source and the unavailability of alternative data sources on which the indicator could be based. There were also some technical issues with the calculation methodology.",
+        "description": "The \n\n total \n\n\n number of \n\n\n\n safety \n\n\n\n\n incidents, causing harm to children due to failure to monitor, reported to the National Reporting and Learning System (NRLS) by provider organisations.\n\n\n\nPlease note that this indicator has been retired as of May 2015. This is because it has been removed form the 2015/16 NHS Outcomes Framework due to the unsuitable data source and the unavailability of alternative data sources on which the indicator could be based. There were also some technical issues with the calculation methodology.",
         "identifier": "HSCIC-Indicator-Portal-P01799-9999991",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01799&mode=documentation&top=yes",
