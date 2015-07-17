@@ -98,7 +98,7 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Life expectancy at 75 (NHSOF 1b)",
-        "description": "The (test) average \u000D number \u000D\u000Aof additional <break> years a man or woman aged 75 can be expected to live if they continue to live in the same place and the death rates in their area remain the same for the rest of their life.",
+        "description": "The average \n number \n\n of additional years a man or woman aged 75 can be expected to live if they continue to live in the same place and the death rates in their area remain the same for the rest of their life.",
         "identifier": "HSCIC-Indicator-Portal-P01728",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01728&mode=documentation&top=yes",
