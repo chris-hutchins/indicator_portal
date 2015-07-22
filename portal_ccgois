@@ -12,6 +12,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01800&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "death",
             "mortality",
             "amenable",
@@ -60,6 +62,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01801&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "death",
             "circulatory system diseases",
             "mortality",
@@ -104,6 +108,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01803&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "kidney disease",
             "stroke",
             "myocardial infarction"
@@ -146,6 +152,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01804&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "death",
             "stroke",
             "mortality",
@@ -189,6 +197,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01805&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "death",
             "respiratory diseases",
             "mortality",
@@ -232,6 +242,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01806&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "death",
             "liver disease",
             "mortality",
@@ -275,6 +287,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01807&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "hospital episodes",
             "hospital admissions",
             "acute condition",
@@ -323,6 +337,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01808&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "death",
             "cancer",
             "mortality",
@@ -366,6 +382,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01809&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "death",
             "cancer",
             "mortality",
@@ -409,6 +427,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01810&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "rectal cancer",
             "lung cancer",
             "death",
@@ -457,6 +477,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01812&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "Antenatal",
             "ante-natal"
         ],
@@ -498,6 +520,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01813&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "smoking status",
             "delivery"
         ],
@@ -539,6 +563,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01814&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "breast feeding"
         ],
         "distribution": [
@@ -579,6 +605,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01816&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "cancer diagnosis",
             "cancer"
         ],
@@ -620,6 +648,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01817&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "cancer diagnosis",
             "early detection",
             "cancer"
@@ -662,6 +692,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01818&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "staging",
             "stage",
             "lung cancer"
@@ -704,6 +736,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01819&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "death",
             "breast cancer",
             "mortality",
@@ -747,6 +781,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01820&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "Emergency",
             "death",
             "mortality",
@@ -792,6 +828,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01821&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "hip-fracture",
             "episodes",
             "hip fracture",
@@ -836,6 +874,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01827&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "Long-term conditions",
             "health-related quality",
             "health-related quality of life"
@@ -878,6 +918,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01828&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "long-term condition",
             "patient experience",
             "long term condition",
@@ -921,6 +963,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01831&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "Education",
             "diabetes",
             "structured education"
@@ -963,6 +1007,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01832&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "hospital care",
             "secondary care",
             "hospital admissions",
@@ -1011,6 +1057,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01833&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "hospital care",
             "secondary care",
             "hospital admissions",
@@ -1059,6 +1107,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01834&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "diabetes",
             "lower limb amputation",
             "ketoacidosis",
@@ -1102,6 +1152,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01835&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "BME",
             "community mental health",
             "mental health"
@@ -1144,6 +1196,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01836&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "BME",
             "therapy",
             "psychological",
@@ -1187,6 +1241,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01842&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "mental health",
             "health-related quality",
             "health-related quality of life"
@@ -1229,6 +1285,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01843&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "Long-term conditions",
             "mental health",
             "health-related quality",
@@ -1272,6 +1330,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01844&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "hospital episodes",
             "hospital admissions",
             "acute condition",
@@ -1320,6 +1380,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01845&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "readmissions",
             "hospital episodes",
             "hospital admissions",
@@ -1364,6 +1426,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01846&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "patient experience",
             "PROMS"
         ],
@@ -1405,6 +1469,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01850&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "hospital episodes",
             "hospital admissions",
             "acute condition",
@@ -1453,6 +1519,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01851&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "stroke unit",
             "stroke"
         ],
@@ -1494,6 +1562,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01852&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "thrombolysis",
             "stroke"
         ],
@@ -1535,6 +1605,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01853&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "care plan",
             "health and social care plan",
             "stroke"
@@ -1577,6 +1649,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01854&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "review",
             "stroke"
         ],
@@ -1618,6 +1692,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01855&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "stroke unit",
             "stroke"
         ],
@@ -1659,6 +1735,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01856&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "hip-fracture",
             "mobility",
             "hip fracture",
@@ -1702,6 +1780,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01857&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "hip-fracture",
             "mobility",
             "hip fracture",
@@ -1745,6 +1825,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01858&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "hip-fracture",
             "hip fracture",
             "orthogeriatric"
@@ -1787,6 +1869,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01859&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "hip-fracture",
             "surgery",
             "hip fracture"
@@ -1829,6 +1913,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01860&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "hip-fracture",
             "hip fracture",
             "assessment"
@@ -1871,6 +1957,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01861&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "episodes",
             "hospital admissions",
             "alcohol-specific",
@@ -1915,6 +2003,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01862&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "readmissions",
             "episodes",
             "readmission",
@@ -1959,6 +2049,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01863&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "readmissions",
             "mental health",
             "hospital episodes",
@@ -2003,6 +2095,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01864&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "mental health",
             "Employment"
         ],
@@ -2044,6 +2138,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01866&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "patient experience",
             "out of hours",
             "out-of-hours",
@@ -2089,6 +2185,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01867&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "patient experience",
             "inpatients"
         ],
@@ -2130,6 +2228,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01870&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "patient experience",
             "inpatients"
         ],
@@ -2171,6 +2271,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01875&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "patient safety",
             "incidents"
         ],
@@ -2212,6 +2314,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01877&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "patient safety",
             "Methicillin-resistant Staphylococcus aureus",
             "MRSA"
@@ -2254,6 +2358,8 @@
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01878&mode=documentation&top=yes",
         "keyword": [
             "health",
+            "NHS",
+            "Clinical Commissioning Group",
             "patient safety",
             "C. difficile",
             "Clostridium difficile"
