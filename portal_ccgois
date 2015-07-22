@@ -11,6 +11,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01800&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "death",
             "mortality",
             "amenable",
@@ -58,6 +59,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01801&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "death",
             "circulatory system diseases",
             "mortality",
@@ -101,6 +103,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01803&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "kidney disease",
             "stroke",
             "myocardial infarction"
@@ -142,6 +145,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01804&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "death",
             "stroke",
             "mortality",
@@ -184,6 +188,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01805&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "death",
             "respiratory diseases",
             "mortality",
@@ -226,6 +231,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01806&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "death",
             "liver disease",
             "mortality",
@@ -268,6 +274,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01807&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "hospital episodes",
             "hospital admissions",
             "acute condition",
@@ -315,6 +322,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01808&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "death",
             "cancer",
             "mortality",
@@ -357,6 +365,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01809&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "death",
             "cancer",
             "mortality",
@@ -399,6 +408,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01810&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "rectal cancer",
             "lung cancer",
             "death",
@@ -446,6 +456,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01812&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "Antenatal",
             "ante-natal"
         ],
@@ -486,6 +497,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01813&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "smoking status",
             "delivery"
         ],
@@ -526,6 +538,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01814&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "breast feeding"
         ],
         "distribution": [
@@ -565,6 +578,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01816&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "cancer diagnosis",
             "cancer"
         ],
@@ -605,6 +619,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01817&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "cancer diagnosis",
             "early detection",
             "cancer"
@@ -646,6 +661,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01818&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "staging",
             "stage",
             "lung cancer"
@@ -687,6 +703,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01819&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "death",
             "breast cancer",
             "mortality",
@@ -729,6 +746,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01820&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "Emergency",
             "death",
             "mortality",
@@ -773,6 +791,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01821&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "hip-fracture",
             "episodes",
             "hip fracture",
@@ -816,6 +835,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01827&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "Long-term conditions",
             "health-related quality",
             "health-related quality of life"
@@ -857,6 +877,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01828&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "long-term condition",
             "patient experience",
             "long term condition",
@@ -899,6 +920,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01831&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "Education",
             "diabetes",
             "structured education"
@@ -940,6 +962,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01832&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "hospital care",
             "secondary care",
             "hospital admissions",
@@ -987,6 +1010,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01833&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "hospital care",
             "secondary care",
             "hospital admissions",
@@ -1034,6 +1058,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01834&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "diabetes",
             "lower limb amputation",
             "ketoacidosis",
@@ -1076,6 +1101,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01835&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "BME",
             "community mental health",
             "mental health"
@@ -1117,6 +1143,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01836&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "BME",
             "therapy",
             "psychological",
@@ -1159,6 +1186,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01842&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "mental health",
             "health-related quality",
             "health-related quality of life"
@@ -1200,6 +1228,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01843&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "Long-term conditions",
             "mental health",
             "health-related quality",
@@ -1242,6 +1271,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01844&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "hospital episodes",
             "hospital admissions",
             "acute condition",
@@ -1289,6 +1319,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01845&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "readmissions",
             "hospital episodes",
             "hospital admissions",
@@ -1332,6 +1363,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01846&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "patient experience",
             "PROMS"
         ],
@@ -1372,6 +1404,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01850&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "hospital episodes",
             "hospital admissions",
             "acute condition",
@@ -1419,6 +1452,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01851&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "stroke unit",
             "stroke"
         ],
@@ -1459,6 +1493,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01852&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "thrombolysis",
             "stroke"
         ],
@@ -1499,6 +1534,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01853&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "care plan",
             "health and social care plan",
             "stroke"
@@ -1540,6 +1576,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01854&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "review",
             "stroke"
         ],
@@ -1580,6 +1617,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01855&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "stroke unit",
             "stroke"
         ],
@@ -1620,6 +1658,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01856&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "hip-fracture",
             "mobility",
             "hip fracture",
@@ -1662,6 +1701,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01857&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "hip-fracture",
             "mobility",
             "hip fracture",
@@ -1704,6 +1744,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01858&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "hip-fracture",
             "hip fracture",
             "orthogeriatric"
@@ -1745,6 +1786,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01859&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "hip-fracture",
             "surgery",
             "hip fracture"
@@ -1786,6 +1828,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01860&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "hip-fracture",
             "hip fracture",
             "assessment"
@@ -1827,6 +1870,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01861&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "episodes",
             "hospital admissions",
             "alcohol-specific",
@@ -1870,6 +1914,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01862&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "readmissions",
             "episodes",
             "readmission",
@@ -1913,6 +1958,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01863&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "readmissions",
             "mental health",
             "hospital episodes",
@@ -1956,6 +2002,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01864&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "mental health",
             "Employment"
         ],
@@ -1996,6 +2043,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01866&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "patient experience",
             "out of hours",
             "out-of-hours",
@@ -2040,6 +2088,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01867&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "patient experience",
             "inpatients"
         ],
@@ -2080,6 +2129,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01870&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "patient experience",
             "inpatients"
         ],
@@ -2120,6 +2170,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01875&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "patient safety",
             "incidents"
         ],
@@ -2160,6 +2211,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01877&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "patient safety",
             "Methicillin-resistant Staphylococcus aureus",
             "MRSA"
@@ -2201,6 +2253,7 @@
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01878&mode=documentation&top=yes",
         "keyword": [
+            "health",
             "patient safety",
             "C. difficile",
             "Clostridium difficile"
