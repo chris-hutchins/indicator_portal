@@ -37,8 +37,7 @@
                 "title": "System Functionality data.csv",
                 "format": "text/csv"
             }
-        ],
-        "references": []
+        ]
     },
     {
         "publisher": {
@@ -82,8 +81,7 @@
                 "title": "System Functionality data.csv",
                 "format": "text/csv"
             }
-        ],
-        "references": []
+        ]
     },
     {
         "publisher": {
@@ -119,8 +117,7 @@
                 "title": "System Functionality data.csv",
                 "format": "text/csv"
             }
-        ],
-        "references": []
+        ]
     },
     {
         "publisher": {
@@ -159,7 +156,6 @@
                 "title": "System Functionality data.csv",
                 "format": "text/csv"
             }
-        ],
-        "references": []
+        ]
     }
 ]
