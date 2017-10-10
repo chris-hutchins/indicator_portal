@@ -23,6 +23,6 @@ This creates a concatenation of all the files, however this is not a valid xml f
 
 In a text editor (I prefer Notepad++):
 1. find and replace all instances of 
-	<?xml version="1.0" encoding="UTF-8" ?>
+	"<?xml version="1.0" encoding="UTF-8" ?>"
 	with ""
 This rmeoves each individual header. However, a single header is required for the overall file, so <?xml version="1.0" encoding="UTF-8" ?> should be added back at the very start.
