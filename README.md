@@ -11,3 +11,18 @@ This is acheived by the following steps:
 
 
 ## 1. Combine the xml schemas
+
+Utilise a combination of the portal indicator list ([https://indicators.hscic.gov.uk/download/Indicator%20Portal%20indicators.xls]) to get a list of the indicator IDs (eg. P02154 etc).
+Append ".xml" to each
+Create a string as follows: "P02154.xml+P02155.xml+P02156.xml......." so that all the IDs are included.
+Use the command prompt to copy all of the xml files into on new, combined xml file:
+In command prompt, the syntax is: copy P00001.xml+P00002.xml+.... P_OF.xml
+where P_OF.xml is the new file to be created (P_NHSOF.xml, P_CCGOIS.xml, P_POMI.xml etc)
+
+This creates a concatenation of all the files, however this is not a valid xml file - there are 2 further transformations required:
+
+In a text editor (I prefer Notepad++):
+1. find and replace all instances of 
+	<?xml version="1.0" encoding="UTF-8" ?>
+	with ""
+This rmeoves each individual header. However, a single header is required for the overall file, so **<?xml version="1.0" encoding="UTF-8" ?>** should be added back at the very start.
