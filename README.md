@@ -12,7 +12,7 @@ This is acheived by the following steps:
 
 ## 1. Combine the xml schemas
 
-Utilise a combination of the portal indicator list ([https://indicators.hscic.gov.uk/download/Indicator%20Portal%20indicators.xls]) to get a list of the indicator IDs (eg. P02154 etc).
+Utilise a combination of the portal indicator list (https://indicators.hscic.gov.uk/download/Indicator%20Portal%20indicators.xls) to get a list of the indicator IDs (eg. P02154 etc).
 Append ".xml" to each
 Create a string as follows: "P02154.xml+P02155.xml+P02156.xml......." so that all the IDs are included.
 Use the command prompt to copy all of the xml files into on new, combined xml file:
@@ -25,4 +25,4 @@ In a text editor (I prefer Notepad++):
 1. find and replace all instances of 
 	<?xml version="1.0" encoding="UTF-8" ?>
 	with ""
-This rmeoves each individual header. However, a single header is required for the overall file, so **<?xml version="1.0" encoding="UTF-8" ?>** should be added back at the very start.
+This rmeoves each individual header. However, a single header is required for the overall file, so <?xml version="1.0" encoding="UTF-8" ?> should be added back at the very start.
